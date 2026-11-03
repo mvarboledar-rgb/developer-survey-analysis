@@ -43,7 +43,7 @@ comparison inside a single country to see if the gap still holds.
 2. Cleaned it: duplicates, missing values, and turning text answers like age
    ranges into numbers.
 3. Explored distributions, outliers and correlations.
-4. Built charts and a dashboard to present the results.
+4. Built charts to present the results.
 
 ## Tools
 
@@ -52,7 +52,7 @@ Python (pandas, Matplotlib, Seaborn), SQL, Jupyter
 ## Files
 
 - `analysis/` - the main notebook with the full analysis (start here)
-- `dashboard/` - data preparation for the dashboard
+- `dashboard/` - data preparation I did for the course dashboard
 - `labs/` - the step-by-step course labs
 - `images/` - charts
 
