@@ -29,9 +29,9 @@ comparison inside a single country to see if the gap still holds.
 
 - 80% of developers work remotely or hybrid. Only 20% go to the office every day.
 - The median yearly salary is $65,000, but it varies a lot: the middle half
-  earns between $33k and $108k.
+  earns between $34k and $107k.
 - Remote developers report higher pay than in-person developers in every age
-  group from 25 to 64 (around $112k vs. $76k at ages 45-54).
+  group from 25 to 64 around $110k vs. $76k at ages 45-54).
 - Python, JavaScript and SQL are the languages people most want to work with.
 - PostgreSQL is the most used database and ChatGPT the most used AI tool.
 - 64% skipped the salary question and 55% skipped job satisfaction, so every
