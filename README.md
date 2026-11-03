@@ -7,6 +7,8 @@ The question I wanted to answer: if a company is hiring, training or marketing t
 developers, what should it know about how they work, how much they earn and what
 they want to learn next?
 
+![Where Developers Work](images/insights_onepager.png)
+
 ## Why I did this project
 
 I come from marketing and market research. For almost three years I coordinated
